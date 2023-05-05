@@ -12,6 +12,7 @@
 </p>
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/rlgus3351/github-stats-transparent/blob/output/generated/overview.svg"><img src="https://github.com/rlgus3351/github-stats-transparent/raw/output/generated/overview.svg" alt="" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/rlgus3351/github-stats-transparent/blob/output/generated/languages.svg"><img src="https://github.com/rlgus3351/github-stats-transparent/raw/output/generated/languages.svg" alt="" style="max-width: 100%;"></a></p>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/rlgus3351/github-stats-transparent/blob/output/generated/languages.svg"><img src="https://github.com/rlgus3351/github-stats-transparent/raw/output/generated/languages.svg" alt="" style="max-width: 100%;"></a>
+</p>
 
 
