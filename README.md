@@ -8,7 +8,7 @@
   </p>
   <p dir="auto">
     <a >
-    <img src="https://raw.githubusercontent.com/rlgus3351/github-stats/master/generated/overview.svg" width="49%" style="max-width: 100%;">
+    <img src="<img src='https://github-readme-stats.vercel.app/api?username=rlgus3351'>" width="49%" style="max-width: 100%;">
     <a href="https://github.com/rlgus3351/github-readme-activity-graph">
     <img src="https://raw.githubusercontent.com/rlgus3351/github-stats/master/generated/languages.svg" width="49%" style="max-width: 100%;">
     <br>
