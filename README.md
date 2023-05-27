@@ -2,7 +2,7 @@
 <br><br><br>
   <p dir="auto"><a><img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&size=36&pause=1000&color=30A14E&center=true&vCenter=true&width=625&height=58&lines=Hi+I'm+Gihyun." alt="Typing SVG" /></a></p>
   <p dir="auto">
-    <br><br><br>
+    <br><br><br><br>
     
   <br>
   </p>
