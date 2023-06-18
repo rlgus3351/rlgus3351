@@ -13,8 +13,6 @@
     <img src="https://raw.githubusercontent.com/rlgus3351/github-stats/master/generated/languages.svg" width="49%" style="max-width: 100%;">
     <br>
     <br>
-         <a>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=rlgus3351&custom_title=Kwon%20GiHyun's%20Contribution%20Graph&hide_border=true&bg_color=ffffff&title_color=000000&color=708090&line=9be9a8&point=30a14e&hide_border=true)" width="100%" style="max-width: 100%;">
             <br>
     <br>
     <a>
