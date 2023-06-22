@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/rlgus3351/github-stats/master/generated/languages.svg" width="49%" style="max-width: 100%;">
     <br>
     <br>
-            <br>
+
     <br>
     <a>
     <img src="https://streak-stats.demolab.com?user=rlgus3351&theme=vue&date_format=%5BY%20%5DM%20j" width="100%" height="100%" style="max-width: 100%;">
